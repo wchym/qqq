@@ -2,7 +2,7 @@
   <div class="login-wrap" :style="divimg">
 
     <div>
-      <p class="p-title">我真的好想你,在每一个雨,你选择遗忘的是我最不舍的</p>
+      <p class="p-title">我真的好想你,在每一个雨季,你选择遗忘的是我最不舍的</p>
     </div>
     <div class="ms-login">
       <div class="ms-title">
